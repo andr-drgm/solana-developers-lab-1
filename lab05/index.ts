@@ -73,7 +73,7 @@ async function main() {
   const connection = new Connection(clusterApiUrl("devnet"));
 
   // initialize a keypair for the user
-  const user = getKeypairFromEnvironment("SECRET_KEY");
+  const user = getKeypairFromEnvironment("SECRET_KEY"); 
 
   console.log(
     `
