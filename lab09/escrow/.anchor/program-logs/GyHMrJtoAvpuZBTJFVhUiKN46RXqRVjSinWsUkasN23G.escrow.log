@@ -1,0 +1,9 @@
+Streaming transaction logs mentioning GyHMrJtoAvpuZBTJFVhUiKN46RXqRVjSinWsUkasN23G. Confirmed commitment
+Transaction executed in slot 4:
+  Signature: 5wnBrFYYXW3zg1kVkda67dWXkHXxaP8GwukyeRxydViLHMUBPB7kHTGyuj9HtnVnxVVuVN5fhGkpsYT9NZioD7Fg
+  Status: Ok
+  Log Messages:
+    Program GyHMrJtoAvpuZBTJFVhUiKN46RXqRVjSinWsUkasN23G invoke [1]
+    Program log: Instruction: Initialize
+    Program GyHMrJtoAvpuZBTJFVhUiKN46RXqRVjSinWsUkasN23G consumed 221 of 200000 compute units
+    Program GyHMrJtoAvpuZBTJFVhUiKN46RXqRVjSinWsUkasN23G success

@@ -1,0 +1,14 @@
+Streaming transaction logs mentioning 5GPnwd9zRrYXnphLa7GSddTgVY3c2UpzchDB6n98u96h. Confirmed commitment
+Transaction executed in slot 3:
+  Signature: JsqRwqshz2qnsYMXEefYteTK153GtBacHMNuYGRKrwhxaiNY6hcTC49dngroeqcpUJrktjkxJ7vebsro8AakYVr
+  Status: Ok
+  Log Messages:
+    Program 5GPnwd9zRrYXnphLa7GSddTgVY3c2UpzchDB6n98u96h invoke [1]
+    Program log: Instruction: SetFavorites
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: Greetings from 5GPnwd9zRrYXnphLa7GSddTgVY3c2UpzchDB6n98u96h
+    Program log: User BEFT5dJTFrirErhFpiBe683oBmY6d1Upao2gqRqgZw8H's favorite number is 23, favorite color is: purple
+    Program log: User's hobbies are: ["skiing", "skydiving", "biking"]
+    Program 5GPnwd9zRrYXnphLa7GSddTgVY3c2UpzchDB6n98u96h consumed 38919 of 200000 compute units
+    Program 5GPnwd9zRrYXnphLa7GSddTgVY3c2UpzchDB6n98u96h success
